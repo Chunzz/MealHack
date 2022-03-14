@@ -4,7 +4,7 @@ Final Project for FIT3178 - iOS app development.
 
 Recipe App connected to the spoonacular API.
 
-![image](https://imgur.com/a/0I8dFU6.jpg)
-![image](https://imgur.com/a/aHGjKQA.jpg)
-![image](https://imgur.com/a/tv1iNuO.jpg)
-![image](https://imgur.com/a/IohrA1B.jpg)
+![login_screen](https://imgur.com/GIhC9pQ.jpg)
+![suggestion_screen](https://imgur.com/R9RLDQP.jpg)
+![search_screen](https://imgur.com/yWgt4wB.jpg)
+![search_screen](https://imgur.com/RnJV8QV.jpg)
